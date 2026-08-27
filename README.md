@@ -1,4 +1,4 @@
-# 16 Games
+# Games Using CPP
 
 This Repository contains a Collection of classic games, each Recreated in CPP. These Games are Console-Based and serve as an Excellent Resource for Studying Basic Game Logic, Algorithmic Thinking, and CPP Programming Concepts.
 ---
