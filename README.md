@@ -7,7 +7,7 @@ This Repository contains a Collection of classic games, each Recreated in CPP. T
 The following games are implemented in this repository:
 
 1. **Snake** – Classic snake game where you collect food and grow.
-2. **Rock Paper Scissor
+2. **Rock Paper Scissor** 
 
 Each game has its own unique Features and Challenges, with individual Game logic implemented in CPP.
 
